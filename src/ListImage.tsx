@@ -15,7 +15,7 @@ const ListImage: FC<Props> = (props) => {
   return (
     <>
       <div className="space-y-10">
-        <div className="text-3xl text-center bg-slate-800 text-white font-extrabold italic rounded-full py-2">
+        <div className="text-3xl text-center bg-slate-800 text-white font-extrabold italic rounded-md py-2">
           Welcome to TechVihan World <br></br>
           <span className="text-xl">Download free hd wallpaper </span>
         </div>
