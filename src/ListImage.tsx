@@ -24,13 +24,13 @@ const ListImage: FC<Props> = (props) => {
         ))}
         <div className="flex justify-center">
           <a
-            href="https://codeyogi.io/"
+            href="https://techvihan.info"
             target="_blank"
-            className="border-2 sm:w-96 w-full flex justify-center hover:transition hover:animate-pulse ease-in-out delay-150  hover:-translate-y-1 
+            className="border-2 sm:w-96 w-full flex justify-center hover:transition   hover:-translate-y-1 
     hover:scale-110  duration-150  bg-gradient-to-r from-red-500 via-gray-500 to-blue-500
     text-2xl rounded-lg py-2"
           >
-            ❤️ at CodeYogi
+            Developed By :TechVihan
           </a>
         </div>
       </div>
